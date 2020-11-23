@@ -22,3 +22,4 @@ color2.setAttribute("value", "#ffff91");
 color1.addEventListener("input", setGradient);
 
 color2.addEventListener("input", setGradient);
+
